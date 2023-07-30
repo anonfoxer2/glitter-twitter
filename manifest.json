@@ -1,7 +1,7 @@
 {
-  "name": "Old Twitter",
-  "description": "Long live the bird",
-  "version": "1.0",
+  "name": "Glitter Twitter",
+  "description": "Long live the bird, now with rainbows!",
+  "version": "133.7",
   "manifest_version": 3,
   "icons": {
     "48": "/assets/twitter.png",
