@@ -1,11 +1,12 @@
 ## About
 
-Don't like the Twitter rebrand to x.com? Neither did I, so I made this Chrome extension that lets you revert x-branding back to the beloved bird.
+Don't like the Twitter rebrand to x.com? Neither did I, so I *forked* this Chrome extension that lets you revert x-branding back to the beloved bird, but added some rainbows!
 
 The loading icon still needs to be replaced.
 
-## Installation
+## Installation guide
 
-Right now this extension is not uploaded to the Chrome web store. That may change later on.
-
-In order to use this extension, you can load these files in as an [unpacked extension](https://developer.chrome.com/docs/extensions/mv3/getstarted/development-basics/#load-unpacked).
+1. Download the code of this project by clicking on the "Code" dropdown, and selecting "Download ZIP"
+2. Save the ZIP file somewhere you can remember it, and extract it.
+3. Open your Chromium-based browser and click on your extension icon, and click "Manage extensions"
+4. Click on "Load unpacked", find the folder that you extracted from the ZIP file, and click "Select folder"
